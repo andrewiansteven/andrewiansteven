@@ -18,7 +18,8 @@ I'm Andrew Steven, the **Head of Mobile** at a software agency in the vibrant ci
 ## Let's Connect
 
 - 💬 Ask me about mobile development, team management, or anything tech!
-- 📫 How to reach me: andy@pixelbeard.co(mailto:andy@pixelbeard.co)
+- 📫 How to reach me: andy@pixelbeard.co
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/andrew-steven-1990">
